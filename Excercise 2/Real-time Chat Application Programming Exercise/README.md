@@ -36,6 +36,32 @@ Chat App
 
 </pre>
 
+# Features
+
+### 1. Chat Room Management
+- Users can create new chat rooms or join existing ones by entering a unique room ID. 
+  
+### 2. Real-Time Messaging
+- Users can send and receive messages instantly within their chat room. The application uses WebSocket to ensure real-time communication.
+
+### 3. Active Users List
+- A list of active users in the chat room is displayed, providing visibility into who is currently participating in the chat.
+
+### 4. Private Messaging: 
+- Users can send private messages to each other, enabling private communication within the chat room.
+
+### 5. Message History: 
+- The chat application supports message history, allowing users to view past conversations even after leaving and rejoining the chat room. It ensures that the chat persists.
+
+### Design Patterns and Architecture Implemented
+
+- **Observer Pattern:** Applied to notify clients of new messages or user activities, ensuring that all connected users are updated in real-time.
+- **Singleton Pattern:** Used to manage the state of the chat room and database, ensuring that there is a single point of control for room management.
+- **Adapter Pattern:** Implemented to allow the system to work with different types of client communication protocols (WebSocket).
+- **Object-Oriented Principles:** Encapsulation and inheritance are effectively applied to create a modular and maintainable codebase.
+
+# Steps to run the application
+
 ## Prerequisites
 
 Node.js should be installed on the machine to run this project. To install Node.js, follow these steps:
@@ -221,3 +247,18 @@ The `leave` command enables users to leave the current chat room they are in. Up
 
 ***Rejoin Same Room***: Rejoin the same room if desired and retrieve the chat history using the `/history` command to continue conversations seamlessly.
    
+   
+**Program Termination**:
+ 
+ Press `CTRL+C` anytime to terminate the program on client or server. If the client program is terminated while inside a room, the program will automatically run the `/leave` command to make sure that the client is no more inside the room. 
+ 
+ If the server is terminated all the client scripts also gets terminated to ensure no error occurs.
+ 
+
+---
+
+<a href="https://www.linkedin.com/in/thejashari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="cyberspartan" height="30" width="40" /></a>
+<a href="https://instagram.com/nuthejashari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthithehacker" height="30" width="40" /></a>
+
+---
+
