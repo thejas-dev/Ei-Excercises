@@ -16,7 +16,7 @@ Candidate shall pick ONE among the EIGHT problem statements provided below, and 
 Exercise 2/
 ├── Real-time Chat Application Programming Exercise/
 │   ├── server/
-├── ├── ...[project files] 
+├── ├── client/
 
 </pre>
 
