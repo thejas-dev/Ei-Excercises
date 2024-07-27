@@ -51,5 +51,3 @@ This exercise involves a mini project focusing on the development of a real-time
 
 ---
 
----
-

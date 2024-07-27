@@ -118,4 +118,3 @@ Replace `/path/to/Excercises` with the actual path to project directory.
 <a href="https://instagram.com/nuthejashari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karthithehacker" height="30" width="40" /></a>
 ---
 
----
