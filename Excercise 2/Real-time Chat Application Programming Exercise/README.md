@@ -130,12 +130,14 @@ If you need to connect to a `remote machine` server, enter the IP address of the
 After entering the IP address, a `socket connection` will be established with that server.
 
 Entering IP address
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_z8stfHZAJe" style="width:700px"
 alt="Preview Image"/>
 
 `Multiple clients` can be created by running the above commands and following the above steps in multiple terminals like shown below. These clients can then connect and interact with each other.
 
 Preview Screenshot
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_LmgAZpB68" style="width:700px"
 alt="Preview Image"/>
 
