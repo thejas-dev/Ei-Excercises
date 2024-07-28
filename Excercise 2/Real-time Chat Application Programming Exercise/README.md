@@ -120,6 +120,7 @@ Open another terminal and navigate to the ChatApp project directory. The directo
  ```
 
 Preview Screenshot
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_xxxT-Cuww" style="width:700px"
 alt="Preview Image"/>
 
