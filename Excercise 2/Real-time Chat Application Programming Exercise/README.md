@@ -97,7 +97,6 @@ Node.js should be installed on the machine to run this project. To install Node.
  ```
 
 Preview Screenshot
-
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BnFK_t_GV" style="width:700px"
 alt="Preview Image"/>
 
@@ -121,7 +120,6 @@ Open another terminal and navigate to the ChatApp project directory. The directo
  ```
 
 Preview Screenshot
-
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_xxxT-Cuww" style="width:700px"
 alt="Preview Image"/>
 
@@ -138,7 +136,6 @@ alt="Preview Image"/>
 `Multiple clients` can be created by running the above commands and following the above steps in multiple terminals like shown below. These clients can then connect and interact with each other.
 
 Preview Screenshot
-
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_LmgAZpB68" style="width:700px"
 alt="Preview Image"/>
 
@@ -151,15 +148,18 @@ In above screenshot, `three clients` are created in three different terminals an
 
 Provided `same` Room Id for all the clients
 
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_2uI5ytdN4Y)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_2uI5ytdN4Y" style="width:700px"
+alt="Preview Image"/>
 
 After Entering the `Room Id`, the clients will `join the room` and each time a new user joins the room, the user name will be logged with the `timestamp`.
 
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_GjgrHB65_)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_GjgrHB65_" style="width:700px"
+alt="Preview Image"/>
 
 Now Clients can communicate with each other through the terminal.
 
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_wO1BFdjud)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_wO1BFdjud" style="width:700px"
+alt="Preview Image"/>
 
 # Features
 ## View List of Users in a Room
@@ -176,11 +176,13 @@ This feature allows clients to view the list of users currently present/active i
    ```
 2. **View the list of users as follow**
 
-![preview image](https://ik.imagekit.io/d3kzbpbila/thejashari_8kHdoHRgJ)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_8kHdoHRgJ" style="width:700px"
+alt="Preview Image"/>
 
 Result will look like this 
 
-![preview image](https://ik.imagekit.io/d3kzbpbila/thejashari_llwenSEJg)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_llwenSEJg" style="width:700px"
+alt="Preview Image"/>
 
 ## Private Messaging
 
@@ -198,7 +200,9 @@ The private messaging feature facilitates privacy by enabling users to communica
    ````
 2. **Message Delivery**: The message will be sent to the user with userId 3. Other users in the room will not receive this message.
 
-![preview image](https://ik.imagekit.io/d3kzbpbila/thejashari_0dTyRn9C3)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_0dTyRn9C3" style="width:700px"
+alt="Preview Image"/>
+
 
 ### Use Case
 
@@ -226,7 +230,9 @@ The `/history` command allows users to retrieve the chat history of a room. This
 
 2. **View Chat History**: The chat history of the room will be retrieved and displayed from the beginning of the room's creation. This includes messages from other users that were sent when the requesting user was not in the room.
 
-![preview image](https://ik.imagekit.io/d3kzbpbila/thejashari_Hi7B7ycAM)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_Hi7B7ycAM" style="width:700px"
+alt="Preview Image"/>
+
 
 ## Use Case
 ***Persistent Chat***: Ensure that the chat persists even if a user leaves and rejoins the room.   
@@ -247,7 +253,9 @@ The `leave` command enables users to leave the current chat room they are in. Up
    /leave
    ```
 
-![preview image](https://ik.imagekit.io/d3kzbpbila/thejashari_OkEaSnAdO)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_OkEaSnAdO" style="width:700px"
+alt="Preview Image"/>
+
 
 ## Use Case
 ***Switch Rooms***: Easily leave the current room and join a different one.  
