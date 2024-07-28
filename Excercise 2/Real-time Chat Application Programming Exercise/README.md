@@ -97,7 +97,8 @@ Node.js should be installed on the machine to run this project. To install Node.
  ```
 
 Preview Screenshot
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_BnFK_t_GV)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BnFK_t_GV" style="width:700px"
+alt="Preview Image"/>
 
 On starting the server, the HTTP server and WebSocket are initialized on port 3333 on the machine. Using this port combined with the ip address of this machine, clients can connect with the server to interact with each other.
 
@@ -119,7 +120,8 @@ Open another terminal and navigate to the ChatApp project directory. The directo
  ```
 
 Preview Screenshot
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_xxxT-Cuww)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_xxxT-Cuww" style="width:700px"
+alt="Preview Image"/>
 
 Upon starting the client, it will prompt you to enter the server machine’s IP address. If the server is running on the same local machine, just press `Enter`. It will automatically fetch current machine's IP address and assign it. 
 
@@ -128,12 +130,14 @@ If you need to connect to a `remote machine` server, enter the IP address of the
 After entering the IP address, a `socket connection` will be established with that server.
 
 Entering IP address
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_z8stfHZAJe)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_z8stfHZAJe" style="width:700px"
+alt="Preview Image"/>
 
 `Multiple clients` can be created by running the above commands and following the above steps in multiple terminals like shown below. These clients can then connect and interact with each other.
 
 Preview Screenshot
-![Preview Image](https://ik.imagekit.io/d3kzbpbila/thejashari_LmgAZpB68)
+<img src="https://ik.imagekit.io/d3kzbpbila/thejashari_LmgAZpB68" style="width:700px"
+alt="Preview Image"/>
 
 In above screenshot, `three clients` are created in three different terminals and one server running on a separate terminal (bottom-right)
 
