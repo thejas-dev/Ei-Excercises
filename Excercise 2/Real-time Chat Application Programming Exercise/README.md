@@ -97,6 +97,7 @@ Node.js should be installed on the machine to run this project. To install Node.
  ```
 
 Preview Screenshot
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BnFK_t_GV" style="width:700px"
 alt="Preview Image"/>
 
