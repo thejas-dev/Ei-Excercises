@@ -97,6 +97,7 @@ Node.js should be installed on the machine to run this project. To install Node.
  ```
 
 Preview Screenshot
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_BnFK_t_GV" style="width:700px"
 alt="Preview Image"/>
 
@@ -120,6 +121,7 @@ Open another terminal and navigate to the ChatApp project directory. The directo
  ```
 
 Preview Screenshot
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_xxxT-Cuww" style="width:700px"
 alt="Preview Image"/>
 
@@ -136,6 +138,7 @@ alt="Preview Image"/>
 `Multiple clients` can be created by running the above commands and following the above steps in multiple terminals like shown below. These clients can then connect and interact with each other.
 
 Preview Screenshot
+
 <img src="https://ik.imagekit.io/d3kzbpbila/thejashari_LmgAZpB68" style="width:700px"
 alt="Preview Image"/>
 
